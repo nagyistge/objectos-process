@@ -47,6 +47,7 @@
 
 	<properties>
 		<objectos.auto.version>0.5.0</objectos.auto.version>
+		<objectos.core.version>0.4.0</objectos.core.version>
 	</properties>
 
 	<build>
@@ -75,6 +76,11 @@
 	</build>
 
 	<dependencies>
+		<dependency>
+			<groupId>br.com.objectos</groupId>
+			<artifactId>core</artifactId>
+		</dependency>
+	
 		<dependency>
 			<groupId>br.com.objectos</groupId>
 			<artifactId>testing</artifactId>
