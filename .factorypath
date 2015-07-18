@@ -1,0 +1,4 @@
+<factorypath>
+    <factorypathentry kind="VARJAR" id="M2_REPO/br/com/objectos/auto/0.5.0/auto-0.5.0.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="EXTJAR" id="/opt/oracle-jdk-bin-1.8.0.40/jre/../lib/tools.jar" enabled="true" runInBatchMode="false"/>
+</factorypath>
