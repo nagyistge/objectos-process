@@ -1,16 +1,16 @@
-# objectos :: lazy 
+# objectos :: process 
 
-Lazy evaluate objects.
+A simple Java 8 Process manager.
 
 ## Maven
 
-objectos :: lazy is at Maven central.
+objectos :: process is at Maven central.
 
 ```xml
 <dependency>
     <groupId>br.com.objectos</groupId>
-    <artifactId>lazy</artifactId>
-    <version>0.2.0</version>
+    <artifactId>process</artifactId>
+    <version>0.1.0</version>
 </dependency>
 ```
 
