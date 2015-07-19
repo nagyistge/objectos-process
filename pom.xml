@@ -10,7 +10,7 @@
 
 	<artifactId>process</artifactId>
 	<packaging>jar</packaging>
-	<version>0.1.0</version>
+	<version>0.1.1-SNAPSHOT</version>
 
 	<name>objectos :: process</name>
 	<description>A simple Java 8 Process manager</description>
@@ -28,7 +28,7 @@
 		<connection>scm:git:ssh://git@rio.objectos.com.br:7999/objectos/process.git</connection>
 		<developerConnection>scm:git:ssh://git@rio.objectos.com.br:7999/objectos/process.git</developerConnection>
 		<url>https://github.com/objectos/process</url>
-		<tag>process-0.1.0</tag>
+		<tag>HEAD</tag>
 	</scm>
 
 	<developers>
